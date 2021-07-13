@@ -5,3 +5,6 @@ const sayHello  = function (name) {
 sayHello("Caliban");
 sayHello("Miranda");
 sayHello("Ferdinand");
+
+
+console.log("This is to test if GitHub is working or not.")
